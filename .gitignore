@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and operating system
+.idea/
+.DS_Store
+
+# Course-platform metadata and supplied lesson material
+/course-*.yaml
+/Easy Rider Bus Company/*-info.yaml
+/Easy Rider Bus Company/*/task-info.yaml
+/Easy Rider Bus Company/*/task-remote-info.yaml
+/Easy Rider Bus Company/*/task.html
+/Easy Rider Bus Company/task/test/
+/Easy Rider Bus Company/task/tests.py
